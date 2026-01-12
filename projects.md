@@ -21,7 +21,3 @@
     - **Key Features:** Room search, visual door previews, and a "Favorites" system for quick access.
     - **Built with:** Java, Android Studio.
     - **Role:** Full-Stack Developer — I developed a custom Favorites system using local data persistence.
-
-* Parent Item
-  * Nested Item (2 spaces before the star)
-    * Deeply Nested Item (4 spaces before the star)
