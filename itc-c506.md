@@ -5,4 +5,4 @@
 ---
 
 ### Jan 2026
-  - [Predictive Modeling in the 2026 Business Landscape Article](./PredictiveModelingInThe2026BusinessLandscape)
+  - [Predictive Modeling in the 2026 Business Landscape Article](./PredictiveModelingInThe2026BusinessLandscape.md)
