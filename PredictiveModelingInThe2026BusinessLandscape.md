@@ -38,7 +38,7 @@ A 2025 review of more than 100 empirical studies titled “Impact of Predictive 
 
 ---
 
-References:
+### References:
 1. Gartner Identifies the Top 10 Strategic Technology Trends for 2025
 2. Gartner Top 10 Strategic Technology Trends for 2026
 3. IDC Estimates Global Spending on Edge Computing to Grow at 13.8% Reaching Nearly $380 Billion by 2028
