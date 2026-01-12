@@ -3,7 +3,7 @@
 
 I’m a 3rd-year IT student who loves the idea of building applications that solve real-world problems. My journey started with a curiosity about how websites are made and a strategic goal to avoid board exams, but it turned into a passion for clean and efficient code, logical database design, and user friendly projects for all technological background.
 
----
+---<br>
 
 ### 🛠️ Tech Stack
 
@@ -23,7 +23,7 @@ I’m a 3rd-year IT student who loves the idea of building applications that sol
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Relational Databases](https://img.shields.io/badge/Database-Relational%20Design-blue?style=for-the-badge&logo=databricks&logoColor=white)
 
----
+---<br>
 
 ### 🌟 Featured Projects
 
@@ -39,7 +39,7 @@ I’m a 3rd-year IT student who loves the idea of building applications that sol
 * **Built with:** Laravel, Tailwind CSS, and **MySQL** for robust data management.
 * **Role:** Full-Stack Developer — I engineered a dynamic Search and Filter system—the most technically challenging part of the build.
 
----
+---<br>
 
 ### 🧩 Beyond the Code
 When I'm not debugging, you can find me:
@@ -47,7 +47,7 @@ When I'm not debugging, you can find me:
 * **Creative Arts:** I enjoy the patience and detail of **crocheting**, **cross-stitching**, and playing my **acoustic guitar**.
 * **Community & Play:** I play **Badminton** to stay active and enjoy **TTRPGs** and story-driven games with friends online.
 
----
+---<br>
 
 ### 📫 Connect with Me
 * **LinkedIn:** [View Here!](https://www.linkedin.com/in/nanelle-tuguinay/)
