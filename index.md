@@ -5,7 +5,6 @@ I’m a 3rd-year IT student who loves the idea of building applications that sol
 
 ---
 
-<br>
 ### 🛠️ Tech Stack
 
 **Frontend & Design**<br>
@@ -26,7 +25,6 @@ I’m a 3rd-year IT student who loves the idea of building applications that sol
 
 ---
 
-<br>
 ### 🌟 Featured Projects
 
 #### 📍 RoomMe: University Room Finder (Android)
@@ -43,7 +41,6 @@ I’m a 3rd-year IT student who loves the idea of building applications that sol
 
 ---
 
-<br>
 ### 🧩 Beyond the Code
 When I'm not debugging, you can find me:
 * **Strategy & Logic:** I'm an avid **Minesweeper** player, I love games that challenge my brain during small breaks.
@@ -52,7 +49,6 @@ When I'm not debugging, you can find me:
 
 ---
 
-<br>
 ### 📫 Connect with Me
 * **LinkedIn:** [View Here!](https://www.linkedin.com/in/nanelle-tuguinay/)
 * **Email:** nanelle.tuguinay@my.jru.edu
