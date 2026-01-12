@@ -3,10 +3,11 @@
 ---
 
 # 👋 Hi, I'm Nanelle Tuguinay
+
 ### Aspiring Full-Stack Web Developer | Pattern-Seeking Logician | 3rd Year IT Student 🚀
 📍 Metro Manila, Philippines | [LinkedIn](https://www.linkedin.com/in/nanelle-tuguinay/) | nanelle.tuguinay@my.jru.edu
 
-I am a 3rd-year IT student dedicated to architecting digital solutions that bridge the gap between complex logic and everyday utility. What began as a curiosity about web architecture and a strategic move to focus on skill-based mastery over board exams has evolved into a deep-seated passion for clean, efficient code and relational database design. I thrive on building projects that remain accessible to users of all technological backgrounds, ensuring that high-level functionality never comes at the cost of a seamless experience.
+As an aspiring IT Architect the bridging the complexity of logic to utility through digital solution design is one of my passions. During my 3 years of IT studies, my curiosity for web architecture turned into my passion for clean code and efficient design of relational databases. I enjoy working on projects that simplify access to users of all, without compromising on functionalities, and with a great experience.
 
 ---
 
@@ -31,11 +32,12 @@ I am a 3rd-year IT student dedicated to architecting digital solutions that brid
 ---
 
 ### 🧩 Beyond the Code
+
 When I'm not debugging, you can find me:
-* **Technical Identity:** **INTP-T** (Logician). I approach code as a puzzle, using my background as an **ear-trained musician** (Keys/Bass) to recognize and implement complex logical patterns.
+* **Technical Identity:** **INTP-T** (Logician). I approach life as a puzzle, according to MBTI.
 * **Strategy & Logic:** I'm an avid **Minesweeper** player, I love games that challenge my brain during small breaks.
-* **Creative Arts:** I enjoy the patience and detail of **crocheting**, **cross-stitching**, and playing my **acoustic guitar**.
-* **Community & Play:** I play **Badminton** to stay active and enjoy **TTRPGs** and story-driven games with friends online.
+* **Creative Arts:** I enjoy the patience and detail of **crocheting**, **cross-stitching**, and **art browsing**.
+* **Community & Play:** I play **Badminton** to stay active and enjoy **TTRPGs**, **story-driven games**, and **Minecraft** with friends online.
 
 ---
 
