@@ -2,10 +2,11 @@
 
 ---
 
-# 👋 Hi, I'm Nanelle!
-### Aspiring Web Developer | Future Full-Stack Engineer 🚀
+# 👋 Hi, I'm Nanelle Tuguinay
+### Aspiring Full-Stack Web Developer | Pattern-Seeking Logician | 3rd Year IT Student 🚀
+📍 Metro Manila, Philippines | [LinkedIn](https://www.linkedin.com/in/nanelle-tuguinay/) | nanelle.tuguinay@my.jru.edu
 
-I’m a 3rd-year IT student who loves the idea of building applications that solve real-world problems. My journey started with a curiosity about how websites are made and a strategic goal to avoid board exams, but it turned into a passion for clean and efficient code, logical database design, and user friendly projects for all technological background.
+I am a 3rd-year IT student dedicated to architecting digital solutions that bridge the gap between complex logic and everyday utility. What began as a curiosity about web architecture and a strategic move to focus on skill-based mastery over board exams has evolved into a deep-seated passion for clean, efficient code and relational database design. I thrive on building projects that remain accessible to users of all technological backgrounds, ensuring that high-level functionality never comes at the cost of a seamless experience.
 
 ---
 
@@ -29,32 +30,13 @@ I’m a 3rd-year IT student who loves the idea of building applications that sol
 
 ---
 
-### 🌟 Featured Projects
-
-#### 📍 RoomMe: University Room Finder (Android)
-*A mobile application built to solve the "where is my classroom?" problem for new students.*
-* **Key Features:** Room search, visual door previews, and a "Favorites" system for quick access.
-* **Built with:** Java, Android Studio.
-* **Role:** Full-Stack Developer — I developed a custom Favorites system using local data persistence.
-
-#### 🏗️ Barangay Snippet Digitalized Document Requesting System: Laravel Full-Stack Project
-*A web application developed as a final group project.*
-* **Key Features:** A User can request a digital copy document of a document they need without needing to go to the Barangay Hall to claim it themselves.
-* **Built with:** Laravel, Tailwind CSS, and **MySQL** for robust data management.
-* **Role:** Full-Stack Developer — I engineered a dynamic Search and Filter system—the most technically challenging part of the build.
-
----
-
 ### 🧩 Beyond the Code
 When I'm not debugging, you can find me:
+* **Technical Identity:** **INTP-T** (Logician). I approach code as a puzzle, using my background as an **ear-trained musician** (Keys/Bass) to recognize and implement complex logical patterns.
 * **Strategy & Logic:** I'm an avid **Minesweeper** player, I love games that challenge my brain during small breaks.
 * **Creative Arts:** I enjoy the patience and detail of **crocheting**, **cross-stitching**, and playing my **acoustic guitar**.
 * **Community & Play:** I play **Badminton** to stay active and enjoy **TTRPGs** and story-driven games with friends online.
 
 ---
 
-### 📫 Connect with Me
-* **LinkedIn:** [View Here!](https://www.linkedin.com/in/nanelle-tuguinay/)
-* **Email:** nanelle.tuguinay@my.jru.edu
-
-*"I didn't choose the board exam life, but I definitely chose the dev life."* 💻✨
+*"I didn't choose the review center life, but I definitely chose the dev life."* 💻✨
