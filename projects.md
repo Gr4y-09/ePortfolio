@@ -16,11 +16,11 @@
 
 ## Dec 2024
 
- - ### 📍 RoomMe: University Room Finder (Android)
- *A mobile application built to solve the "where is my classroom?" problem for new students.*
-  - **Key Features:** Room search, visual door previews, and a "Favorites" system for quick access.
-  - **Built with:** Java, Android Studio.
-  - **Role:** Full-Stack Developer — I developed a custom Favorites system using local data persistence.
+  - ### 📍 RoomMe: University Room Finder (Android)
+    *A mobile application built to solve the "where is my classroom?" problem for new students.*
+    - **Key Features:** Room search, visual door previews, and a "Favorites" system for quick access.
+    - **Built with:** Java, Android Studio.
+    - **Role:** Full-Stack Developer — I developed a custom Favorites system using local data persistence.
 
 * Parent Item
   * Nested Item (2 spaces before the star)
