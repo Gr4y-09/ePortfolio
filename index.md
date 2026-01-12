@@ -1,3 +1,7 @@
+[🏠 Home](./index.md) | [💻 Projects](./projects.md) | [📚 ITC-C506 Coursework](./itc-c506.md)
+
+---
+
 # 👋 Hi, I'm Nanelle!
 ### Aspiring Web Developer | Future Full-Stack Engineer 🚀
 
