@@ -1,6 +1,6 @@
 ---
 
-### **[🏠 Home](./index.md)** | [💻 Projects](./projects.md) | [📚 ITC-C506 Coursework](./itc-c506.md)
+**[🏠 Home](./index.md)** | [💻 Projects](./projects.md) | [📚 ITC-C506 Coursework](./itc-c506.md)
 
 ---
 
@@ -40,7 +40,7 @@ A 2025 review of more than 100 empirical studies titled “Impact of Predictive 
 ---
 
 ## Course Alignment
-W.I.P
+The value of predictive modeling bridging raw data and actionable strategies is reiterated during this research for 2026 predictive modeling in the business landscape. With the research aligning current industry trends with this course on predictive modeling, I begin ITC-C506 with optimism. I share the sentiment expressed in this research with regards to “Continuous Intelligence” underscoring the importance of the CRISP-DM model as it pertains to the initial weeks of the course. I share a particular interest in the course content for Weeks 4 and 5, as tools of Linear and Logistic Regression, which researchers Aljohani and Porter recognized as crucial in the financial forecasting and risk classification, will be pivotal in my mastery of those disciplines. Moreover, the industry trends toward use of Jupyter Notebooks and TensorFlow in Week 3 assures me that this course will prepare me to manage data intelligently and construct models that will sustain an organization’s operational resilience, rather than models that are utilized in a laboratory setting. I see ITC-C506 as a course that will equip me with the skills to transform dormant data into actionable insights that will fulfill the needs of the industry in 2026.
 
 ---
 
