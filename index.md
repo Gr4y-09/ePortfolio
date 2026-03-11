@@ -15,6 +15,16 @@ As an aspiring IT Architect the bridging the complexity of logic to utility thro
 
 ---
 
+# Expectations
+
+Heading into ITC C506 looking into the course syllabus, I’m expecting a very practical, code-heavy semester that bridges the gap between raw data and business strategy. Since the syllabus moves quickly from a review of descriptive statistics into Linear and Logistic Regression, I anticipate a lot of hands-on work in Jupyter Notebooks and Google Colab to get the logic down.
+
+It looks like during mid terms the course shifts toward more complex territory, specifically Ensemble Methods like Random Forests and Neural Networks using TensorFlow and Keras. Beyond just training models, I’m preparing to learn the "full-stack" side of data science, which includes building Graphical User Interfaces (GUIs) with Tkinter and even deploying models as RESTful APIs using Flask or Django.
+
+Ultimately, my general expectation is that this course will push me to not only understand how algorithms work under the hood but also how to package them into functional applications that solve real-world problems through a final research project.
+
+---
+
 ### 🛠️ Tech Stack
 
 **Frontend & Design**<br>
