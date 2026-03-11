@@ -2,23 +2,25 @@
 
 ---
 
-# Jan 13 2026
-  - ### [Predictive Modeling in the 2026 Business Landscape Article](./PredictiveModelingInThe2026BusinessLandscape.md)
+# Jan 2026
+  - ## Jan 13
+    - ### [Predictive Modeling in the 2026 Business Landscape Article](./PredictiveModelingInThe2026BusinessLandscape.md)
+  
+  - ## Jan 16
+    - ### [Predictive Modeling in the 2026 Business Landscape Article](./PredictiveModelingInThe2026BusinessLandscape.md)
+  
+  - ## Jan 21
+    - ### [Predictive Modeling in the 2026 Business Landscape Article](./PredictiveModelingInThe2026BusinessLandscape.md)
+  
+  - ## Jan 31
+    - ### [Predictive Modeling in the 2026 Business Landscape Article](./PredictiveModelingInThe2026BusinessLandscape.md)
 
-# Jan 16 2026
-  - ### [Predictive Modeling in the 2026 Business Landscape Article](./PredictiveModelingInThe2026BusinessLandscape.md)
-
-# Jan 21 2026
-  - ### [Predictive Modeling in the 2026 Business Landscape Article](./PredictiveModelingInThe2026BusinessLandscape.md)
-
-# Jan 31 2026
-  - ### [Predictive Modeling in the 2026 Business Landscape Article](./PredictiveModelingInThe2026BusinessLandscape.md)
-
-# Feb 14 2026
-  - ### [Predictive Modeling in the 2026 Business Landscape Article](./PredictiveModelingInThe2026BusinessLandscape.md)
-
-# Feb 20 2026
-  - ### [Predictive Modeling in the 2026 Business Landscape Article](./PredictiveModelingInThe2026BusinessLandscape.md)
-
-# Feb 27 2026
-  - ### [Predictive Modeling in the 2026 Business Landscape Article](./PredictiveModelingInThe2026BusinessLandscape.md)
+# Feb 2026
+  - ## Feb 14
+    - ### [Predictive Modeling in the 2026 Business Landscape Article](./PredictiveModelingInThe2026BusinessLandscape.md)
+  
+  - ## Feb 20
+    - ### [Predictive Modeling in the 2026 Business Landscape Article](./PredictiveModelingInThe2026BusinessLandscape.md)
+  
+  - ## Feb 27
+    - ### [Predictive Modeling in the 2026 Business Landscape Article](./PredictiveModelingInThe2026BusinessLandscape.md)
