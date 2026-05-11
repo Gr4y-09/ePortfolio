@@ -14,7 +14,7 @@ title: ITC-C506 Coursework
   - ## Jan 16 | Exercise 1 - kNN Predictive Modelling
     - ### [PT-P2-Tuguinay_Nanelle.pdf](./documents/PT-P2-Tuguinay_Nanelle.pdf)
     - ### [PT-P2-Tuguinay_Nanelle.ipynb](./documents/PT-P2-Tuguinay_Nanelle_ipynb.pdf)
-    - ### [Exercise 1 - kNN Predictive Modelling-reflection](./reflection/Exercise1-kNNPredictiveModelling-reflection.md)
+    - ### [Exercise 1-kNN Predictive Modelling](./reflection/Exercise1-kNNPredictiveModelling.md)
   
   - ## Jan 21 | Addendum Activity: Revised kNN IEEE Report
     - ### [Revised-PT-P2-Tuguinay_Nanelle.pdf](./documents/Revised-PT-P2-Tuguinay_Nanelle.pdf)
