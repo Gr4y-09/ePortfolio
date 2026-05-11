@@ -1,3 +1,11 @@
+---
+title: WW-P1: Creating ePortfolio-reflection
+---
+
+### [🏠 Home](./index.md) | [💻 Projects](./projects.md) | [📚 ITC-C506 Coursework](./itc-c506.md) > **[WW-P1: Creating ePortfolio-reflection](./WW-P1: Creating ePortfolio-reflection.md)**
+
+---
+
 As you read through this research on the 2026 business landscape, it is evident that we have come a long way from the "plan, do and review" days. It's amazing to see how predictive modeling has gone from being a specialized technical tool to the actual engine of enterprise today, as an IT student. This is where the need for our current coursework becomes so important, in the sense that it is a move from reactive management to "proactive agility. It's not just about processing data; it's about creating systems that can predict a crisis even before one occurs, whether it's a supply chain breakdown or a change in market sentiment.
 
 The figures on edge computing and ‘Agentic AI' are especially intriguing. The fact that 75% of enterprise data is being processed outside of the traditional data center is why there is so much pressure on autonomous models that can reason on the fly. It makes the technical aspect of our studies feel much more important and knowing that we're on par with industry standard of reducing time to insight from days to milliseconds makes it feel that way. Accurate isn't enough, it needs to be fast enough to power real-time decisioning on factory floors or in retail environments where every second of latency matters.
