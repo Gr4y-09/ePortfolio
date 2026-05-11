@@ -25,9 +25,12 @@ title: ITC-C506 Coursework
   - ## Feb 14 | Simple and Multiple Linear Regression
     - ### [PT-P3-Tuguinay_Nanelle.pdf](./documents/PT-P3-Tuguinay_Nanelle.pdf)
     - ### [PT-P3-Tuguinay_Nanelle.ipynb](./documents/PT-P3-Tuguinay_Nanelle_ipynb.pdf)
+   
+  - ## Feb 27 | Prelim Exam
+    - ### [Placeholder]
   
-  - ## Feb 20
-    - ### [Predictive Modeling in the 2026 Business Landscape Article](./documents/)
+  - ## Mar 11 | WW-M1 (Prelim ePortfolio)
+    - ### [Placeholder]
   
-  - ## Feb 27
+  - ## Feb 17 | Exercise PTM1- Logistic Regression
     - ### [Predictive Modeling in the 2026 Business Landscape Article](./documents/)
