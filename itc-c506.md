@@ -23,7 +23,7 @@ title: ITC-C506 Coursework
   - ## Jan 31 | Exercise WW-P2 (Data Cleaning)
     - ### [TuguinayWW2-datacleaning.pdf](./documents/TuguinayWW2-datacleaning.pdf)
     - ### [TuguinayWW2-datacleaning.ipynb](./documents/TuguinayWW2-datacleaning_ipynb.pdf)
-    - ### [Exercise WW-P2 (Data Cleaning)-reflection](./reflection/ExerciseWW-P2(Dataleaning)-reflection.md)
+    - ### [Exercise WW-P2 (Data Cleaning)-reflection](./reflection/ExerciseWW-P2DataCleaning-reflection.md)
 
 # Feb 2026
   - ## Feb 14 | Simple and Multiple Linear Regression
