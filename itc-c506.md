@@ -22,8 +22,9 @@ title: ITC-C506 Coursework
     - ### [TuguinayWW2-datacleaning.ipynb](./documents/TuguinayWW2-datacleaning_ipynb.pdf)
 
 # Feb 2026
-  - ## Feb 14
-    - ### [Predictive Modeling in the 2026 Business Landscape Article](./documents/)
+  - ## Feb 14 | Simple and Multiple Linear Regression
+    - ### [PT-P3-Tuguinay_Nanelle.pdf](./documents/PT-P3-Tuguinay_Nanelle.pdf)
+    - ### [PT-P3-Tuguinay_Nanelle.ipynb](./documents/PT-P3-Tuguinay_Nanelle_ipynb.pdf)
   
   - ## Feb 20
     - ### [Predictive Modeling in the 2026 Business Landscape Article](./documents/)
