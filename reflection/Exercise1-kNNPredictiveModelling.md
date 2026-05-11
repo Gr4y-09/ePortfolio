@@ -1,5 +1,5 @@
 ---
-title: Predictive Modeling in the 2026 Business Landscape
+title: Exercise 1-kNN Predictive Modelling
 ---
 
 ### [🏠 Home](../index.md) | [💻 Projects](../projects.md) | [📚 ITC-C506 Coursework](../itc-c506.md) > **[Exercise 1-kNN Predictive Modelling](./reflection/Exercise1-kNNPredictiveModelling.md)**
