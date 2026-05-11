@@ -1,5 +1,5 @@
 ---
-title: Addendum Activity: Revised kNN IEEE Report-revision
+title: Addendum Activity Revised kNN IEEE Report-revision
 
 ---
 
