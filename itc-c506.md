@@ -58,10 +58,10 @@ title: ITC-C506 Coursework
   - ## May 08 | Final Quiz & Exam | Final Project
     - ### [Placeholder]
    
-    - ### [TUGUINAY_Exercise_PTM1_report.ipynb.pdf](./documents/TUGUINAY_Exercise_PTM1_report.ipynb.pdf)
-    - ### [TUGUINAY_Exercise_PTM1_report.ipynb.pdf](./documents/TUGUINAY_Exercise_PTM1_report.ipynb.pdf)
-    - ### [TUGUINAY_Exercise_PTM1_report.ipynb.pdf](./documents/TUGUINAY_Exercise_PTM1_report.ipynb.pdf)
-    - ### [TUGUINAY_Exercise_PTM1_report.ipynb.pdf](./documents/TUGUINAY_Exercise_PTM1_report.ipynb.pdf)
+    - ### [FinalProject_P.E.N.pdf](./documents/FinalProject_P.E.N.pdf)
+    - ### [FinalProject_P.E.N.ipynb](./documents/FinalProject_P.E.N.ipynb.pdf)
+    - ### [FinalProject_P.E.N.xlsx](./documents/FinalProject_P.E.N.xlsx.pdf)
+    - ### [PH_School_SDG_Data.csv](./documents/PH_School_SDG_Data.csv)
    
   - ## May 09 | WW-F2 (Finals ePortfolio)
     - ### [Placeholder]
