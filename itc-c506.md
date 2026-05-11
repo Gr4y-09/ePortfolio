@@ -12,7 +12,7 @@ title: ITC-C506 Coursework
   
   - ## Jan 16 | Exercise 1 - kNN Predictive Modelling
     - ### [PT-P2-Tuguinay_Nanelle.pdf](./documents/PT-P2-Tuguinay_Nanelle.pdf)
-    - ### [PT-P2-Tuguinay_Nanelle.ipynb](./documents/PT-P2-Tuguinay_Nanelle.ipynb)
+    - ### [PT-P2-Tuguinay_Nanelle.ipynb](./documents/PT-P2-Tuguinay_Nanelle_ipynb.pdf)
   
   - ## Jan 21
     - ### [Predictive Modeling in the 2026 Business Landscape Article](./PredictiveModelingInThe2026BusinessLandscape.md)
