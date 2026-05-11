@@ -14,18 +14,22 @@ title: ITC-C506 Coursework
   - ## Jan 16 | Exercise 1 - kNN Predictive Modelling
     - ### [PT-P2-Tuguinay_Nanelle.pdf](./documents/PT-P2-Tuguinay_Nanelle.pdf)
     - ### [PT-P2-Tuguinay_Nanelle.ipynb](./documents/PT-P2-Tuguinay_Nanelle_ipynb.pdf)
+    - ### [Exercise 1 - kNN Predictive Modelling-reflection](./reflection/Exercise1-kNNPredictiveModelling-reflection.md)
   
   - ## Jan 21 | Addendum Activity: Revised kNN IEEE Report
     - ### [Revised-PT-P2-Tuguinay_Nanelle.pdf](./documents/Revised-PT-P2-Tuguinay_Nanelle.pdf)
+    - ### [Addendum Activity: Revised kNN IEEE Report-reflection](./reflection/AddendumActivity:RevisedkNNIEEEReport-reflection.md)
   
   - ## Jan 31 | Exercise WW-P2 (Data Cleaning)
     - ### [TuguinayWW2-datacleaning.pdf](./documents/TuguinayWW2-datacleaning.pdf)
     - ### [TuguinayWW2-datacleaning.ipynb](./documents/TuguinayWW2-datacleaning_ipynb.pdf)
+    - ### [Exercise WW-P2 (Data Cleaning)-reflection](./reflection/ExerciseWW-P2(Dataleaning)-reflection.md)
 
 # Feb 2026
   - ## Feb 14 | Simple and Multiple Linear Regression
     - ### [PT-P3-Tuguinay_Nanelle.pdf](./documents/PT-P3-Tuguinay_Nanelle.pdf)
     - ### [PT-P3-Tuguinay_Nanelle.ipynb](./documents/PT-P3-Tuguinay_Nanelle_ipynb.pdf)
+    - ### [Simple and Multiple Linear Regression-reflection](./reflection/SimpleandMultipleLinearRegression-reflection.md)
 
   - ## Feb 20 | Prelim Long Quiz
     - ### [Placeholder]
@@ -42,6 +46,7 @@ title: ITC-C506 Coursework
    
     - ### [TUGUINAY_Exercise_PTM1_report.pdf](./documents/TUGUINAY_Exercise_PTM1_report.pdf)
     - ### [TUGUINAY_Exercise_PTM1_report.ipynb.pdf](./documents/TUGUINAY_Exercise_PTM1_report.ipynb.pdf)
+    - ### [Exercise PTM1- Logistic Regression-reflection](./reflection/ExercisePTM1-LogisticRegression-reflection.md)
 
   - ## Mar 31 | Midterm Exam
     - ### [Placeholder]
@@ -49,11 +54,13 @@ title: ITC-C506 Coursework
 # Apr 2026
   - ## Apr 21 | PT-F1 Project Proposal
     - ### [P.E.N.pdf](./documents/P.E.N.pdf)
+    - ### [PT-F1 Project Proposal-reflection](./reflection/PT-F1ProjectProposal-reflection.md)
   
   - ## Apr 29 | Exercise PT-F2 Model FineTuning
     - ### [TUGUINAY_Exercise_PT-F2_Model_Comparison.pdf](./documents/TUGUINAY_Exercise_PT-F2_Model_Comparison.pdf)
     - ### [TUGUINAY_Exercise_PT-F2_Model_Comparison.ipynb](./documents/TUGUINAY_Exercise_PT-F2_Model_Comparison.ipynb.pdf)
     - ### [TUGUINAY_Exercise_PT-F2_Model_Comparison.xlsx](./documents/TUGUINAY_Exercise_PT-F2_Model_Comparison.xlsx.pdf)
+    - ### [Exercise PT-F2 Model FineTuning-reflection](./reflection/ExercisePT-F2ModelFineTuning-reflection.md)
    
 # May 2026
   - ## May 08 | Final Quiz & Exam | Final Project
@@ -63,6 +70,7 @@ title: ITC-C506 Coursework
     - ### [FinalProject_P.E.N.ipynb](./documents/FinalProject_P.E.N.ipynb.pdf)
     - ### [FinalProject_P.E.N.xlsx](./documents/FinalProject_P.E.N.xlsx.pdf)
     - ### [PH_School_SDG_Data.csv](./documents/PH_School_SDG_Data.csv)
+    - ### [Final Project-reflection](./reflection/FinalProject-reflection.md)
    
   - ## May 09 | WW-F2 (Finals ePortfolio)
     - ### [Placeholder]
