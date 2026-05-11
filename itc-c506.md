@@ -25,6 +25,9 @@ title: ITC-C506 Coursework
   - ## Feb 14 | Simple and Multiple Linear Regression
     - ### [PT-P3-Tuguinay_Nanelle.pdf](./documents/PT-P3-Tuguinay_Nanelle.pdf)
     - ### [PT-P3-Tuguinay_Nanelle.ipynb](./documents/PT-P3-Tuguinay_Nanelle_ipynb.pdf)
+
+  - ## Feb 20 | Prelim Long Quiz
+    - ### [Placeholder]
    
   - ## Feb 27 | Prelim Exam
     - ### [Placeholder]
@@ -33,6 +36,32 @@ title: ITC-C506 Coursework
   - ## Mar 11 | WW-M1 (Prelim ePortfolio)
     - ### [Placeholder]
   
-  - ## Mar 17 | Exercise PTM1- Logistic Regression
+  - ## Mar 17 | Midterm Long Quiz | Exercise PTM1- Logistic Regression
+    - ### [Placeholder]
+   
     - ### [TUGUINAY_Exercise_PTM1_report.pdf](./documents/TUGUINAY_Exercise_PTM1_report.pdf)
     - ### [TUGUINAY_Exercise_PTM1_report.ipynb.pdf](./documents/TUGUINAY_Exercise_PTM1_report.ipynb.pdf)
+
+  - ## Mar 31 | Midterm Exam
+    - ### [Placeholder]
+   
+# Apr 2026
+  - ## Apr 21 | PT-F1 Project Proposal
+    - ### [P.E.N.pdf](./documents/P.E.N.pdf)
+  
+  - ## Apr 29 | Exercise PT-F2 Model FineTuning
+    - ### [TUGUINAY_Exercise_PT-F2_Model_Comparison.pdf](./documents/TUGUINAY_Exercise_PT-F2_Model_Comparison.pdf)
+    - ### [TUGUINAY_Exercise_PT-F2_Model_Comparison.ipynb](./documents/TUGUINAY_Exercise_PT-F2_Model_Comparison.ipynb.pdf)
+    - ### [TUGUINAY_Exercise_PT-F2_Model_Comparison.xlsx](./documents/TUGUINAY_Exercise_PT-F2_Model_Comparison.xlsx.pdf)
+   
+# May 2026
+  - ## May 08 | Final Quiz & Exam | Final Project
+    - ### [Placeholder]
+   
+    - ### [TUGUINAY_Exercise_PTM1_report.ipynb.pdf](./documents/TUGUINAY_Exercise_PTM1_report.ipynb.pdf)
+    - ### [TUGUINAY_Exercise_PTM1_report.ipynb.pdf](./documents/TUGUINAY_Exercise_PTM1_report.ipynb.pdf)
+    - ### [TUGUINAY_Exercise_PTM1_report.ipynb.pdf](./documents/TUGUINAY_Exercise_PTM1_report.ipynb.pdf)
+    - ### [TUGUINAY_Exercise_PTM1_report.ipynb.pdf](./documents/TUGUINAY_Exercise_PTM1_report.ipynb.pdf)
+   
+  - ## May 09 | WW-F2 (Finals ePortfolio)
+    - ### [Placeholder]
