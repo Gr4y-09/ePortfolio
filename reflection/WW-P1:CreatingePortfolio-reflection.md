@@ -1,4 +1,6 @@
 ---
+title: Predictive Modeling in the 2026 Business Landscape
+---
 
 ### [🏠 Home](./index.md) | [💻 Projects](./projects.md) | [📚 ITC-C506 Coursework](./itc-c506.md) > **[WW-P1: Creating ePortfolio-reflection](./WW-P1:CreatingePortfolio-reflection.md)**
 
