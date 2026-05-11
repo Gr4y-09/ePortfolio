@@ -1,6 +1,4 @@
 ---
-title: WW-P1: Creating ePortfolio-reflection
----
 
 ### [🏠 Home](./index.md) | [💻 Projects](./projects.md) | [📚 ITC-C506 Coursework](./itc-c506.md) > **[WW-P1: Creating ePortfolio-reflection](./WW-P1: Creating ePortfolio-reflection.md)**
 
