@@ -29,7 +29,7 @@ title: ITC-C506 Coursework
   - ## Feb 14 | Simple and Multiple Linear Regression
     - ### [PT-P3-Tuguinay_Nanelle.pdf](./documents/PT-P3-Tuguinay_Nanelle.pdf)
     - ### [PT-P3-Tuguinay_Nanelle.ipynb](./documents/PT-P3-Tuguinay_Nanelle_ipynb.pdf)
-    - ### [Simple and Multiple Linear Regression-reflection](./reflection/SimpleandMultipleLinearRegression-reflection.md)
+    - ### [Simple and Multiple Linear Regression-reflection](./reflection/Exercise1-kNNPredictiveModelling.md)
 
   - ## Feb 20 | Prelim Long Quiz
     - ### [Placeholder]
@@ -46,7 +46,7 @@ title: ITC-C506 Coursework
    
     - ### [TUGUINAY_Exercise_PTM1_report.pdf](./documents/TUGUINAY_Exercise_PTM1_report.pdf)
     - ### [TUGUINAY_Exercise_PTM1_report.ipynb.pdf](./documents/TUGUINAY_Exercise_PTM1_report.ipynb.pdf)
-    - ### [Exercise PTM1- Logistic Regression-reflection](./reflection/ExercisePTM1-LogisticRegression-reflection.md)
+    - ### [Exercise PTM1- Logistic Regression-reflection](./reflection/Exercise1-kNNPredictiveModelling.md)
 
   - ## Mar 31 | Midterm Exam
     - ### [Placeholder]
@@ -54,13 +54,13 @@ title: ITC-C506 Coursework
 # Apr 2026
   - ## Apr 21 | PT-F1 Project Proposal
     - ### [P.E.N.pdf](./documents/P.E.N.pdf)
-    - ### [PT-F1 Project Proposal-reflection](./reflection/PT-F1ProjectProposal-reflection.md)
+    - ### [PT-F1 Project Proposal-reflection](./reflection/Exercise1-kNNPredictiveModelling.md)
   
   - ## Apr 29 | Exercise PT-F2 Model FineTuning
     - ### [TUGUINAY_Exercise_PT-F2_Model_Comparison.pdf](./documents/TUGUINAY_Exercise_PT-F2_Model_Comparison.pdf)
     - ### [TUGUINAY_Exercise_PT-F2_Model_Comparison.ipynb](./documents/TUGUINAY_Exercise_PT-F2_Model_Comparison.ipynb.pdf)
     - ### [TUGUINAY_Exercise_PT-F2_Model_Comparison.xlsx](./documents/TUGUINAY_Exercise_PT-F2_Model_Comparison.xlsx.pdf)
-    - ### [Exercise PT-F2 Model FineTuning-reflection](./reflection/ExercisePT-F2ModelFineTuning-reflection.md)
+    - ### [Exercise PT-F2 Model FineTuning-reflection](./reflection/Exercise1-kNNPredictiveModelling.md)
    
 # May 2026
   - ## May 08 | Final Quiz & Exam | Final Project
@@ -70,7 +70,7 @@ title: ITC-C506 Coursework
     - ### [FinalProject_P.E.N.ipynb](./documents/FinalProject_P.E.N.ipynb.pdf)
     - ### [FinalProject_P.E.N.xlsx](./documents/FinalProject_P.E.N.xlsx.pdf)
     - ### [PH_School_SDG_Data.csv](./documents/PH_School_SDG_Data.csv)
-    - ### [Final Project-reflection](./reflection/FinalProject-reflection.md)
+    - ### [Final Project-reflection](./reflection/Exercise1-kNNPredictiveModelling.md)
    
   - ## May 09 | WW-F2 (Finals ePortfolio)
     - ### [Placeholder]
