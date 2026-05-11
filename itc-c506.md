@@ -28,9 +28,11 @@ title: ITC-C506 Coursework
    
   - ## Feb 27 | Prelim Exam
     - ### [Placeholder]
-  
+
+# Mar 2026
   - ## Mar 11 | WW-M1 (Prelim ePortfolio)
     - ### [Placeholder]
   
-  - ## Feb 17 | Exercise PTM1- Logistic Regression
-    - ### [Predictive Modeling in the 2026 Business Landscape Article](./documents/)
+  - ## Mar 17 | Exercise PTM1- Logistic Regression
+    - ### [TUGUINAY_Exercise_PTM1_report.pdf](./documents/TUGUINAY_Exercise_PTM1_report.pdf)
+    - ### [TUGUINAY_Exercise_PTM1_report.ipynb.pdf](./documents/TUGUINAY_Exercise_PTM1_report.ipynb.pdf)
