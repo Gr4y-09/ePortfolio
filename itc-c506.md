@@ -9,6 +9,7 @@ title: ITC-C506 Coursework
 # Jan 2026
   - ## Jan 13 | WW-P1: Creating ePortfolio
     - ### [Predictive Modeling in the 2026 Business Landscape Article](./PredictiveModelingInThe2026BusinessLandscape.md)
+    - ### [WW-P1: Creating ePortfolio-reflection](./WW-P1: Creating ePortfolio-reflection.md)
   
   - ## Jan 16 | Exercise 1 - kNN Predictive Modelling
     - ### [PT-P2-Tuguinay_Nanelle.pdf](./documents/PT-P2-Tuguinay_Nanelle.pdf)
