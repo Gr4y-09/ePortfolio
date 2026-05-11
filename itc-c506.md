@@ -18,7 +18,7 @@ title: ITC-C506 Coursework
   
   - ## Jan 21 | Addendum Activity: Revised kNN IEEE Report
     - ### [Revised-PT-P2-Tuguinay_Nanelle.pdf](./documents/Revised-PT-P2-Tuguinay_Nanelle.pdf)
-    - ### [Addendum Activity: Revised kNN IEEE Report-reflection](./reflection/AddendumActivity:RevisedkNNIEEEReport-reflection.md)
+    - ### [Addendum Activity: Revised kNN IEEE Report-reflection](./reflection/AddendumActivityRevisedkNNIEEEReport-reflection.md)
   
   - ## Jan 31 | Exercise WW-P2 (Data Cleaning)
     - ### [TuguinayWW2-datacleaning.pdf](./documents/TuguinayWW2-datacleaning.pdf)
