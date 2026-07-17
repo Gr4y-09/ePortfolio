@@ -8,4 +8,4 @@ title: ITC-C506 Coursework
 
 # July 2026
   - ## July 16 | WW-P1 (ePortfolio - Readings and Expectations)
-    - ### [Course Expectations](./itc-c508/CourseExpectations.md)
+    - ### [WW-P1 (ePortfolio - Readings and Expectations)](./itc-c508/CourseExpectations.md)
