@@ -20,13 +20,13 @@ title: ITC-C506 Coursework
 
 # Aug 2026
   - ## Aug 13 | PT-P2 - Neural Network Training and Testing (HyperParameters)
-    - ### [Nanelle_PT-P2.pdf)](./itc-c508/documents/Nanelle_PT-P2.pdf)
-    - ### [Nanelle_PT-P2.ipynb)](./itc-c508/documents/Nanelle_PT-P2.ipynb.pdf)
-    - ### [Nanelle_PT-P2.xlsx)](./itc-c508/documents/Nanelle_PT-P2.xlsx.pdf)
+    - ### [Nanelle_PT-P2.pdf](./itc-c508/documents/Nanelle_PT-P2.pdf)
+    - ### [Nanelle_PT-P2.ipynb](./itc-c508/documents/Nanelle_PT-P2.ipynb.pdf)
+    - ### [Nanelle_PT-P2.xlsx](./itc-c508/documents/Nanelle_PT-P2.xlsx.pdf)
    
 # Sept 2026
   - ## Sept 9 | Lab Exercise PT-M1 (Building and Evaluating a RAG Chatbot)
-    - ### [Nanelle_PT-M1.pdf)](./itc-c508/documents/Nanelle_PT-M1.pdf)
-    - ### [Nanelle_PT-M1.ipynb)](./itc-c508/documents/Nanelle_PT-M1.ipynb.pdf)
+    - ### [Nanelle_PT-M1.pdf](./itc-c508/documents/Nanelle_PT-M1.pdf)
+    - ### [Nanelle_PT-M1.ipynb](./itc-c508/documents/Nanelle_PT-M1.ipynb.pdf)
 
   - ## Sept 14 | WW-M1 (Prelim ePortfolio)
