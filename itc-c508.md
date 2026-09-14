@@ -28,3 +28,5 @@ title: ITC-C506 Coursework
   - ## Sept 9 | Lab Exercise PT-M1 (Building and Evaluating a RAG Chatbot)
     - ### [Nanelle_PT-M1.pdf)](./itc-c508/documents/Nanelle_PT-M1.pdf)
     - ### [Nanelle_PT-M1.ipynb)](./itc-c508/documents/Nanelle_PT-M1.ipynb.pdf)
+
+  - ## Sept 14 | WW-M1 (Prelim ePortfolio)
