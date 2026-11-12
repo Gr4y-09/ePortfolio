@@ -3,7 +3,7 @@ title: PT-P1 Reflection
 
 ---
 
-### [🏠 Home](../index.md) | [💻 Projects](../projects.md) | [📚 ITC-C506 Coursework](../itc-c506.md) > **[PT-P1 Reflection](./itc-c508/reflection/PT-P1Reflection.md)** | [📚 ITC-C508 Coursework](../itc-c508.md)
+### [🏠 Home](../index.md) | [💻 Projects](../projects.md) | [📚 ITC-C506 Coursework](../itc-c506.md) | [📚 ITC-C508 Coursework](../itc-c508.md) > **[PT-P1 Reflection](./itc-c508/reflection/PT-P1Reflection.md)**
 
 ---
 This laboratory activity about training a text classification model to route customer feedback really opened my eyes to how machine learning handles language compared to writing regular computer code. Using the Machine Learning for Kids tool, we built a simple neural network to sort customer messages into three groups: positive praise, negative complaints, and urgent support.
