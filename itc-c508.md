@@ -33,43 +33,40 @@ title: ITC-C506 Coursework
 
   - ## Sept 14 | WW-M1 (Prelim ePortfolio) | 70 / 100
 
-  - ## Sept 16 | WW-M2 : (Project Proposal) | null
+  - ## Sept 16 | WW-M2 : (Project Proposal)
 
-  - ## Sept 21 | Lab Exercise WW-M2 (Proposal) | ? / ?
+  - ## Sept 21 | Lab Exercise WW-M2 (Proposal)
     - ### [Project-Proposal-Cache.pdf](./itc-c508/documents/Project-Proposal-Cache.pdf)
     - ### [Project-Proposal-Cache.pptx](./itc-c508/documents/Project-Proposal-Cache.pptx.pdf)
 
-  - ## Sept 29 | WW-M2 Extension (Updated Proposal) | ? / ?
+  - ## Sept 29 | WW-M2 Extension (Updated Proposal)
     - ### [WW-M2-Cache.pdf](./itc-c508/documents/WW-M2-Cache.pdf)
 
 # Oct 2026
   - ## Oct 5 | Midterm Exam | ? / ?
 
-  - ## Oct 22 | PT-F1 (Optimizing Chunk Size and Overlap): Initial Preps | ? / ?
+  - ## Oct 22 | PT-F1 (Optimizing Chunk Size and Overlap): Initial Preps
     - ### [Tuguinay-PT-F1.pdf](./itc-c508/documents/Tuguinay-PT-F1.pdf)
     - ### [Tuguinay-PT-F1.ipynb](./itc-c508/documents/Tuguinay-PT-F1.ipynb.pdf)
     - ### [Tuguinay-PT-F1-VAW-dataset.txt](./itc-c508/documents/Tuguinay-PT-F1-VAW-dataset.txt)
     - ### [Tuguinay-VAW-dataset-chunks-inspection.pdf](./itc-c508/documents/Tuguinay-VAW-dataset-chunks-inspection.pdf)
    
-  - ## Oct 22 | PT-F1 (Optimizing Chunk Size and Overlap): Initial Preps | ? / ?
-    - ### [Tuguinay-PT-F1.pdf](./itc-c508/documents/Tuguinay-PT-F1.pdf)
-   
-  - ## Oct 29 | Lab Exercise PT-F2 (Part2: Experimenting to Determine the Best Chunk) | ? / ?
+  - ## Oct 29 | Lab Exercise PT-F2 (Part2: Experimenting to Determine the Best Chunk)
     - ### [PT-F2_Tuguinay_IEEE_Report.pdf](./itc-c508/documents/PT-F2_Tuguinay_IEEE_Report.pdf)
     - ### [PT-F2_Tuguinay.ipynb](./itc-c508/documents/PT-F2_Tuguinay.ipynb.pdf)
     - ### [PT-F2_Tuguinay_SourceDataset_VerifiedTestQuestionEvidence.pdf](./itc-c508/documents/PT-F2_Tuguinay_SourceDataset_VerifiedTestQuestionEvidence.pdf)
     - ### [PT-F2_Tuguinay_ExperimentResults_DetailedRetrievalLog.csv.pdf](./itc-c508/documents/PT-F2_Tuguinay_ExperimentResults_DetailedRetrievalLog.csv.pdf)
 
 # Nov 2026
-  - ## Nov 4 | ITC-C508 Lab Exercise WW1 and WW2 (Optimization and GPU Testing) | ? / ?
+  - ## Nov 4 | ITC-C508 Lab Exercise WW1 and WW2 (Optimization and GPU Testing)
     - ### [Cache_RAG_Experiment_Report.pdf](./itc-c508/documents/Cache_RAG_Experiment_Report.pdf)
     - ### [Cache_RAG_Experiment_Notebook.ipynb](./itc-c508/documents/Cache_RAG_Experiment_Notebook(1).ipynb.pdf)
     - ### [Cache_RAG_Experiment_Results.xlsx.pdf](./itc-c508/documents/Cache_RAG_Experiment_Results.xlsx.pdf)
     - ### [Cache_RAG_Experiment_Data](https://drive.google.com/drive/folders/1QFZxJ-aUaKCvoxgJr8L7Ngmhxt6AZBTY?usp=drive_link)
    
-  - ## Nov 5 | Final Exam | ? / ?
+  - ## Nov 5 | Final Exam
    
-  - ## Nov 11 | P-F1 (Group Final Project) | ? / ?
+  - ## Nov 11 | P-F1 (Group Final Project)
     - ### [Cache_RAG_IEEE_Report.docx](./itc-c508/documents/Cache_RAG_IEEE_Report.docx.pdf)
     - ### [Cache_Project_Integrity_and_AI_Usage_Statement.pdf](./itc-c508/documents/Cache_Project_Integrity_and_AI_Usage_Statement.pdf)
     - ### [CACHE_MEMBER_RESPONSIBILITY_MATRIX_(MRM).docx](./itc-c508/documents/CACHE_MEMBER_RESPONSIBILITY_MATRIX_(MRM).docx.pdf)
