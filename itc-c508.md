@@ -37,13 +37,13 @@ title: ITC-C506 Coursework
 
   - ## Sept 21 | Lab Exercise WW-M2 (Proposal) | ? / ?
     - ### [Project-Proposal-Cache.pdf](./itc-c508/documents/Project-Proposal-Cache.pdf)
-    - ### [Project-Proposal-Cache.pptx](./itc-c508/documents/Project-Proposal-Cache.pptx)
+    - ### [Project-Proposal-Cache.pptx](./itc-c508/documents/Project-Proposal-Cache.pptx.pdf)
 
   - ## Sept 29 | WW-M2 Extension (Updated Proposal) | ? / ?
     - ### [WW-M2-Cache.pdf](./itc-c508/documents/WW-M2-Cache.pdf)
 
 # Oct 2026
-  - ## Oct 5 | Midterm Exam | 
+  - ## Oct 5 | Midterm Exam | ? / ?
 
   - ## Oct 22 | PT-F1 (Optimizing Chunk Size and Overlap): Initial Preps | ? / ?
     - ### [Tuguinay-PT-F1.pdf](./itc-c508/documents/Tuguinay-PT-F1.pdf)
