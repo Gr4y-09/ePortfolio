@@ -45,7 +45,7 @@ title: ITC-C506 Coursework
 
   - ## Sept 29 | WW-M2 Extension (Updated Proposal)
     - ### [WW-M2-Cache.pdf](./itc-c508/documents/WW-M2-Cache.pdf)
-    - ### [WW-M2 Reflection](./itc-c508/reflection/WW-M2Reflection.md)
+    - ### [WW-M2 Reflection](./itc-c508/reflection/WW-M2Reflection(1).md)
 
 # Oct 2026
   - ## Oct 5 | Midterm Exam | ? / ?
