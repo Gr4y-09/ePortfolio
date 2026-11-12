@@ -63,7 +63,7 @@ title: ITC-C506 Coursework
 # Nov 2026
   - ## Nov 4 | ITC-C508 Lab Exercise WW1 and WW2 (Optimization and GPU Testing) | ? / ?
     - ### [Cache_RAG_Experiment_Report.pdf](./itc-c508/documents/Cache_RAG_Experiment_Report.pdf)
-    - ### [Cache_RAG_Experiment_Notebook.ipynb](./itc-c508/documents/Cache_RAG_Experiment_Notebook.ipynb.pdf)
+    - ### [Cache_RAG_Experiment_Notebook.ipynb](./itc-c508/documents/Cache_RAG_Experiment_Notebook(1).ipynb.pdf)
     - ### [Cache_RAG_Experiment_Results.xlsx.pdf](./itc-c508/documents/Cache_RAG_Experiment_Results.xlsx.pdf)
     - ### [Cache_RAG_Experiment_Data](https://drive.google.com/drive/folders/1QFZxJ-aUaKCvoxgJr8L7Ngmhxt6AZBTY?usp=drive_link)
    
@@ -73,7 +73,7 @@ title: ITC-C506 Coursework
     - ### [Cache_RAG_IEEE_Report.docx](./itc-c508/documents/Cache_RAG_IEEE_Report.docx.pdf)
     - ### [Cache_Project_Integrity_and_AI_Usage_Statement.pdf](./itc-c508/documents/Cache_Project_Integrity_and_AI_Usage_Statement.pdf)
     - ### [CACHE_MEMBER_RESPONSIBILITY_MATRIX_(MRM).docx](./itc-c508/documents/CACHE_MEMBER_RESPONSIBILITY_MATRIX_(MRM).docx.pdf)
-    - ### [Cache_RAG_Experiment_Notebook(2).ipynb](./itc-c508/documents/Cache_RAG_Experiment_Notebook(2).ipynb.pdf)
+    - ### [Cache_RAG_Experiment_Notebook.ipynb](./itc-c508/documents/Cache_RAG_Experiment_Notebook(2).ipynb.pdf)
     - ### [Cache_Reproducibility_Package.ipynb](./itc-c508/documents/Cache_Reproducibility_Package.ipynb.pdf)
     - ### [Cache_Final_Project_Experiment_Logs.xlsx](./itc-c508/documents/Cache_Final_Project_Experiment_Logs.xlsx.pdf)
     - ### [Cache_Final_Chatbot_Response _Evaluation.xlsx](./itc-c508/documents/Cache_Final_Chatbot_Response_Evaluation.xlsx.pdf)
