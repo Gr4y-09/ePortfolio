@@ -1,1 +1,7 @@
 
+
+This new proposal shifts our focus entirely from our previous disaster-infrastructure concept to a much more meaningful and human-centered topic: a Retrieval-Augmented Generation (RAG) chatbot designed to provide accessible, grounded information on violence against women and girls (VAWG) in the Philippines, aligned with SDG 5 (Target 5.2).
+
+Looking back at why we abandoned our old flood-infrastructure topic, the primary critique we received was that no normal citizen would actually pull out their phone to consult a chatbot about flood drainage or infrastructure prep during an emergency. That feedback stung, but it made us realize the importance of real-world user behavior and urgency. For this new proposal, focusing on VAW guidelines, Republic Act No. 9262, and the Barangay VAW Desk Handbook addresses a genuine information gap. People facing these sensitive situations often struggle to find scattered legal and procedural information online, making a confidential, structured guidance tool far more practical and aligned with how individuals seek help during critical moments.
+
+Working through this proposal document made it clear how much more relevant and purposeful our topic selection has become. Instead of forcing a technology onto a scenario where people wouldn't use it, this system centers around an area where discrete, accurate, and authoritative guidance is genuinely needed.
