@@ -1,4 +1,11 @@
+---
+title: WW-M2 Updated Reflection
 
+---
+
+### [🏠 Home](../index.md) | [💻 Projects](../projects.md) | [📚 ITC-C506 Coursework](../itc-c506.md) | [📚 ITC-C508 Coursework](../itc-c508.md) > **[WW-M2 Updated Reflection](./itc-c508/reflection/WW-M2Reflection(1).md)**
+
+---
 
 This new proposal shifts our focus entirely from our previous disaster-infrastructure concept to a much more meaningful and human-centered topic: a Retrieval-Augmented Generation (RAG) chatbot designed to provide accessible, grounded information on violence against women and girls (VAWG) in the Philippines, aligned with SDG 5 (Target 5.2).
 
