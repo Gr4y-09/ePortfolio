@@ -71,5 +71,5 @@ title: ITC-C506 Coursework
     - ### [Cache_Reproducibility_Package.ipynb](./itc-c508/documents/Cache_Reproducibility_Package.ipynb.pdf)
     - ### [Cache_Final_Project_Experiment_Logs.xlsx](./itc-c508/documents/Cache_Final_Project_Experiment_Logs.xlsx.pdf)
     - ### [Cache_Final_Chatbot_Response _Evaluation.xlsx](./itc-c508/documents/Cache_Final_Chatbot_Response _Evaluation.xlsx.pdf)
-    - ### [Chunking Experiments](https://drive.google.com/drive/folders/1EW2SyDk3TmbNMBVELRgw_mx0tYeUSfPU?usp=drive_link)
+    - ### [[Chunking Experiments](https://drive.google.com/drive/folders/1EW2SyDk3TmbNMBVELRgw_mx0tYeUSfPU?usp=drive_link)]
     - ### [Knowledge Base Source Document (Supporting Document).pdf](./itc-c508/documents/Knowledge Base Source Document (Supporting Document).pdf)
