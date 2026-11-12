@@ -24,6 +24,8 @@ title: ITC-C506 Coursework
     - ### [Nanelle_PT-P2.ipynb](./itc-c508/documents/Nanelle_PT-P2.ipynb.pdf)
     - ### [Nanelle_PT-P2.xlsx](./itc-c508/documents/Nanelle_PT-P2.xlsx.pdf)
    
+  - ## Aug 24 | Preliminary Exam | 18 / ?
+   
 # Sept 2026
   - ## Sept 9 | Lab Exercise PT-M1 (Building and Evaluating a RAG Chatbot) | 80 / 100
     - ### [Nanelle_PT-M1.pdf](./itc-c508/documents/Nanelle_PT-M1.pdf)
@@ -41,6 +43,8 @@ title: ITC-C506 Coursework
     - ### [WW-M2-Cache.pdf](./itc-c508/documents/WW-M2-Cache.pdf)
 
 # Oct 2026
+  - ## Oct 5 | Midterm Exam | 
+
   - ## Oct 22 | PT-F1 (Optimizing Chunk Size and Overlap): Initial Preps | ? / ?
     - ### [Tuguinay-PT-F1.pdf](./itc-c508/documents/Tuguinay-PT-F1.pdf)
     - ### [Tuguinay-PT-F1.ipynb](./itc-c508/documents/Tuguinay-PT-F1.ipynb.pdf)
@@ -63,6 +67,8 @@ title: ITC-C506 Coursework
     - ### [Cache_RAG_Experiment_Results.xlsx.pdf](./itc-c508/documents/Cache_RAG_Experiment_Results.xlsx.pdf)
     - ### [Cache_RAG_Experiment_Data](https://drive.google.com/drive/folders/1QFZxJ-aUaKCvoxgJr8L7Ngmhxt6AZBTY?usp=drive_link)
    
+  - ## Nov 5 | Final Exam | ? / ?
+   
   - ## Nov 11 | P-F1 (Group Final Project) | ? / ?
     - ### [Cache_RAG_IEEE_Report.docx](./itc-c508/documents/Cache_RAG_IEEE_Report.docx.pdf)
     - ### [Cache_Project_Integrity_and_AI_Usage_Statement.pdf](./itc-c508/documents/Cache_Project_Integrity_and_AI_Usage_Statement.pdf)
@@ -70,6 +76,6 @@ title: ITC-C506 Coursework
     - ### [Cache_RAG_Experiment_Notebook(2).ipynb](./itc-c508/documents/Cache_RAG_Experiment_Notebook(2).ipynb.pdf)
     - ### [Cache_Reproducibility_Package.ipynb](./itc-c508/documents/Cache_Reproducibility_Package.ipynb.pdf)
     - ### [Cache_Final_Project_Experiment_Logs.xlsx](./itc-c508/documents/Cache_Final_Project_Experiment_Logs.xlsx.pdf)
-    - ### [Cache_Final_Chatbot_Response _Evaluation.xlsx](./itc-c508/documents/Cache_Final_Chatbot_Response _Evaluation.xlsx.pdf)
-    - ### [[Chunking Experiments](https://drive.google.com/drive/folders/1EW2SyDk3TmbNMBVELRgw_mx0tYeUSfPU?usp=drive_link)]
-    - ### [Knowledge Base Source Document (Supporting Document).pdf](./itc-c508/documents/Knowledge Base Source Document (Supporting Document).pdf)
+    - ### [Cache_Final_Chatbot_Response _Evaluation.xlsx](./itc-c508/documents/Cache_Final_Chatbot_Response_Evaluation.xlsx.pdf)
+    - ### [Chunking Experiments](https://drive.google.com/drive/folders/1EW2SyDk3TmbNMBVELRgw_mx0tYeUSfPU?usp=drive_link)
+    - ### [Knowledge Base Source Document (Supporting Document).pdf](./itc-c508/documents/KnowledgeBaseSourceDocument(SupportingDocument).pdf)
