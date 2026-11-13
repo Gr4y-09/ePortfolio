@@ -1,4 +1,11 @@
+---
+title: PT-F1 Reflection
 
+---
+
+### [🏠 Home](../index.md) | [💻 Projects](../projects.md) | [📚 ITC-C506 Coursework](../itc-c506.md) | [📚 ITC-C508 Coursework](../itc-c508.md) > **[PT-F1 Reflection](./itc-c508/reflection/PT-F1Reflection.md)**
+
+---
 
 This individual laboratory activity (PT-F1) focused on conducting a controlled chunking experiment to test how different chunk size and overlap configurations affect retrieval performance using a FAISS vector store and retrieval notebook. As part of our group's ongoing work around violence against women laws and local municipal guidance, I sourced my own dataset and set up test questions ranging from easy to difficult based on Republic Act No. 9710 (The Magna Carta of Women).
 
