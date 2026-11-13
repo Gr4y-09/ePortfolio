@@ -3,7 +3,7 @@ title: WWi-WW2 Reflection
 
 ---
 
-### [🏠 Home](../index.md) | [💻 Projects](../projects.md) | [📚 ITC-C506 Coursework](../itc-c506.md) | [📚 ITC-C508 Coursework](../itc-c508.md) > **[WW1-WW2 Reflection](./itc-c508/reflection/WW1-WW2Reflection.md)**
+### [🏠 Home](../../index.md) | [💻 Projects](../../projects.md) | [📚 ITC-C506 Coursework](../../itc-c506.md) | [📚 ITC-C508 Coursework](../../itc-c508.md) > **[WW1-WW2 Reflection](./itc-c508/reflection/WW1-WW2Reflection.md)**
 
 ---
 
