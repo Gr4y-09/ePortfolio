@@ -2,7 +2,7 @@
 title: Exercise 1-kNN Predictive Modelling
 ---
 
-### [🏠 Home](../index.md) | [💻 Projects](../projects.md) | [📚 ITC-C506 Coursework](../itc-c506.md) > **[Exercise 1-kNN Predictive Modelling](./reflection/Exercise1-kNNPredictiveModelling.md)**
+### [🏠 Home](../../index.md) | [💻 Projects](../../projects.md) | [📚 ITC-C506 Coursework](../../itc-c506.md) | [📚 ITC-C508 Coursework](../../itc-c508.md) > **[Exercise 1-kNN Predictive Modelling](./reflection/Exercise1-kNNPredictiveModelling.md)**
 
 ---
 
