@@ -3,7 +3,7 @@ title: Addendum Activity Revised kNN IEEE Report-revision
 
 ---
 
-### [🏠 Home](../index.md) | [💻 Projects](../projects.md) | [📚 ITC-C506 Coursework](../itc-c506.md) > **[Addendum Activity: Revised kNN IEEE Report-revision](./reflection/AddendumActivityRevisedkNNIEEEReport-reflection.md)**
+### [🏠 Home](../../index.md) | [💻 Projects](../../projects.md) | [📚 ITC-C506 Coursework](../../itc-c506.md) | [📚 ITC-C508 Coursework](../../itc-c508.md) > **[Addendum Activity: Revised kNN IEEE Report-revision](./reflection/AddendumActivityRevisedkNNIEEEReport-reflection.md)**
 
 ---
 
